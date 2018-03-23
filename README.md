@@ -4,11 +4,14 @@ Primary sources from leading research in computational cognitive science.
 
 General locations for sources:   
 
-- Tenenbaum representative [papers](http://web.mit.edu/cocosci/josh.html)
-- MIT CoCoSci [publications](http://cocosci.mit.edu/publications)
-- MIT AGI [Various](https://agi.mit.edu/)
-- MIT OCW AI [Winston](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
-- MIT OCW Society of Mind [Minsky](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/)
+- Tenenbaum [papers](http://web.mit.edu/cocosci/josh.html)
+- MIT CoCoSci [papers](http://cocosci.mit.edu/publications)
+
+### Lectures:
+
+- [MIT AGI](https://agi.mit.edu/)
+- [MIT OCW AI (Winston)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+- [MIT OCW Society of Mind (Minsky)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/)
 
 ### Papers:
 
@@ -22,15 +25,25 @@ General locations for sources:
     - Bayesian models of cognition  
     - Optimal Predictions in Everyday Cognition  
     - A Compositional Object-Based Approach to Learning Physical Dynamics  
-- Other:
+- Jeff Hawkins et al:
+    - Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in the Neocortex
+    - A Theory of how Columns in the Neocortex Enable Learning the Structure of the World
+    - Properties of Sparse Distributed Representations and their Application to Hierarchical Temporal Memory
+- Barrett:
     - The theory of constructed emotion: an active inference account of interoception and categorization  
 
 ### Books:
+ - Society of Mind, Marvin Minsky 
+ - The Emotion Machine, Marvin Minsky
  - GEB, and other H-books? I'm not sure if this is needed.  
- - Society of Mind, because of its influence on our architecture and Tenenbaum's (And on all of CoCoSci).  
-Lectures:?
- - Obvious candidates are MIT AGI, MIT Minsky (Society of Mind) and MIT Winston. I'm sure Stanford and other schools have decent lectures too.  
 
 Future Inclusions:  
-    - Hawkins   
     - Wolfram  
+    - More Barrett?
+    - CoCoSci analogous groups at other schools?
+
+TODO:  
+    - Individual summary pages for the more important papers
+    - Overview papers for grouped research that's less relevant (like the Hawkin's stuff, because of how low-level it is)
+    - Citation code for each source
+    - Bibliography generation
