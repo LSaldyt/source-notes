@@ -31,6 +31,6 @@ General locations for sources:
 Lectures:?
  - Obvious candidates are MIT AGI, MIT Minsky (Society of Mind) and MIT Winston. I'm sure Stanford and other schools have decent lectures too.  
 
-Future Inclusions: 
-    - Hawkins  
+Future Inclusions:  
+    - Hawkins   
     - Wolfram  
