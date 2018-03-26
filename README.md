@@ -16,6 +16,7 @@ General locations for sources:
 ### Papers:
 
 - Tenenbaum et al:  
+    - Human level concept learning through probabalistic program induction [notes](notes/human_level_concept_learning.md).
     - Three ideal observer models for rule learning in simple languages  
     - Computational rationality: A converging paradigm for intelligence in brains, minds, and machines.  
     - How to grow a mind: statistics, structure, and abstraction  
