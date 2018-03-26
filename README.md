@@ -6,6 +6,7 @@ General locations for sources:
 
 - Tenenbaum [papers](http://web.mit.edu/cocosci/josh.html)
 - MIT CoCoSci [papers](http://cocosci.mit.edu/publications)
+- [Berkeley CoCoSci](https://cocosci.berkeley.edu)
 
 ### Lectures:
 
