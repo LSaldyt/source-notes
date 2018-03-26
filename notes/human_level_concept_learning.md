@@ -12,15 +12,20 @@ In lecture, tenenbaum refers to this hypothesis as _"baby as hacker"_ (read: "ba
 He refers to the script hypothesis as _"game engine in the head"_.
 In a nutshell, it seems clear that we navigate and interact with our world in part by creating and improving a model of it.
 
-### Methods and Results
+### Methods 
 
 Using modern heirarchical bayesian induction (See Tenenbaum group paper on this subject), this model learns scripts that describe letters (In paper, this is called BPL: Bayesian Program Learning). 
 Importantly, this is one-shot, "real" (as Tenenbaum calls it in-lecture) learning (The implication is that "Deep Learning" isn't learning in the sense that matters to anyone actually trying to model intelligence). 
+
+### Results
+
 This model outperforms each compared "Deep learning" apprach (and actually has a smaller error rate than the tested human subjects).
 The best "deep learning" approach achieves an 8% error rate (Hausdorf distance), while humans achieve 4.5% and the BPL model is 3.3%.
 Later, the model is shown to pass visual turing tests against humans. 
 
 The model is also able to produce novel characters, which are statistically indistinguishable from human-drawn characters.
+
+### Discussion
 
 The authors claim that two concepts are central to the model (If taken away, the model no longer passes the visual turing test): Compositionality and learning-to-learn (The heirarchical part of Heirarchical Bayesian Learning).
 "Our work suggests that the principles of compositionality, causality, and learning to learn will be critical in building machines that narrow [the gap between human and machine concept learning]".
