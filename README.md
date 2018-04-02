@@ -7,6 +7,8 @@ General locations for sources:
 - Tenenbaum [papers](http://web.mit.edu/cocosci/josh.html)
 - MIT CoCoSci [papers](http://cocosci.mit.edu/publications)
 - [Berkeley CoCoSci](https://cocosci.berkeley.edu)
+- [MIT Encyclopedia of the Cognitive Sciences](http://www.aiai.ed.ac.uk/project/oplan/documents/1999/1999-MITECS.pdf)
+- [Society of Mind](http://www.acad.bg/ebook/ml/Society%20of%20Mind.pdf)
 
 ### Lectures:
 
