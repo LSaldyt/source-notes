@@ -29,7 +29,7 @@ General locations for sources:
     - Bayesian models of cognition  
     - Optimal Predictions in Everyday Cognition  
     - A Compositional Object-Based Approach to Learning Physical Dynamics  
-- Jeff Hawkins et al:
+- [Jeff Hawkins et al](https://loop.frontiersin.org/people/312279/overview):
     - Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in the Neocortex
     - A Theory of how Columns in the Neocortex Enable Learning the Structure of the World
     - Properties of Sparse Distributed Representations and their Application to Hierarchical Temporal Memory
