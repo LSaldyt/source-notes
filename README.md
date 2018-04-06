@@ -12,7 +12,7 @@ Primary sources from leading research in computational cognitive science.
 - MIT CoCoSci [papers](http://cocosci.mit.edu/publications)
 - [Berkeley CoCoSci](https://cocosci.berkeley.edu)
 
-### Bools:
+### Books:
 
 - [MIT Encyclopedia of the Cognitive Sciences](http://www.aiai.ed.ac.uk/project/oplan/documents/1999/1999-MITECS.pdf)
 - [Society of Mind](http://www.acad.bg/ebook/ml/Society%20of%20Mind.pdf)
