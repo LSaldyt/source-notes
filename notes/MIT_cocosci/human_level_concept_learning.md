@@ -14,7 +14,7 @@ In a nutshell, it seems clear that we navigate and interact with our world in pa
 
 ### Methods 
 
-Using modern heirarchical bayesian induction (See Tenenbaum group paper on this subject), this model learns scripts that describe letters (In paper, this is called BPL: Bayesian Program Learning). 
+Using modern hierarchical bayesian induction (See Tenenbaum group paper on this subject), this model learns scripts that describe letters (In paper, this is called BPL: Bayesian Program Learning). 
 Importantly, this is one-shot, "real" (as Tenenbaum calls it in-lecture) learning (The implication is that "Deep Learning" isn't learning in the sense that matters to anyone actually trying to model intelligence). 
 
 ### Results
@@ -27,7 +27,7 @@ The model is also able to produce novel characters, which are statistically indi
 
 ### Discussion
 
-The authors claim that two concepts are central to the model (If taken away, the model no longer passes the visual turing test): Compositionality and learning-to-learn (The heirarchical part of Heirarchical Bayesian Learning).
+The authors claim that two concepts are central to the model (If taken away, the model no longer passes the visual turing test): Compositionality and learning-to-learn (The hierarchical part of hierarchical Bayesian Learning).
 "Our work suggests that the principles of compositionality, causality, and learning to learn will be critical in building machines that narrow [the gap between human and machine concept learning]".
 
 ### Takeaways:

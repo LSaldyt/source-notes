@@ -5,7 +5,7 @@
 Rule learning in language is important for the simplest forms of human generalization.  
 This paper reviews hierarchical bayesian models of rule learning.  
 "These models capture a wide range of experimental results -- including several that have been used to argue for domain-specificity or limits on the kinds of generalizations learners can make -- suggesting that these ideal observers may be a useful baseline for future work in rule learning"  
-This supports the psychological plausibility of heirarchical bayesian networks in the human mind.  
+This supports the psychological plausibility of hierarchical bayesian networks in the human mind.  
 For more on this, see the "Optimal Predictions" paper by Tenenbaum's group.  
 These results also revise the simple "rules vs statistics" debate in language aquisition, suggesting that, "On empirical grounds, there is support for both the availability of rule-like representations and the ability of learners to perform statistical inferences over these representations".   
 Generalizing, this supports Tenenbaum et al's general idea that cognitive models need to combine explicit and implicit representations.

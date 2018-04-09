@@ -2,7 +2,7 @@
 
 ### Summary
 
-This is a high-detail survey of current methods in modern heirarchical bayesian architectures, as used in the other papers by Tenenbaum's group.  
+This is a high-detail survey of current methods in modern hierarchical bayesian architectures, as used in the other papers by Tenenbaum's group.  
 It is difficult to summarize here, but if you're seeking to understand the math behind these systems, this is the place to look.  
 
 Here are the sections of the paper:
