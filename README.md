@@ -69,7 +69,6 @@ Outer layer is ordered by author, inner layer is ordered by importance
     - The theory of constructed emotion: an active inference account of interoception and categorization  
     - Book
 
-<<<<<<< HEAD
 ### Books:
  - Society of Mind, Marvin Minsky 
  - The Emotion Machine, Marvin Minsky
@@ -78,19 +77,10 @@ Future Inclusions:
     - Wolfram  
     - CoCoSci analogous groups at other schools?
     - Better/extended neuroanatomy sources (past Hawkins)
-=======
->>>>>>> 14faaecf201408c405b97ee521ef94e3069acfba
 
 ### Tasks:  
     - Individual summary pages for the more important papers
     - Citation code for each source
     - Bibliography generation script
     - Script that creates this top-level file?
-
-### Future Inclusions:  
-    Ordered by priority.
-
-    - CoCoSci analogous groups at other schools?
-    - Wolfram  
-    - More Barrett?
 
