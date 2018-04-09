@@ -31,18 +31,18 @@ General locations for sources:
     - Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in the Neocortex
     - A Theory of how Columns in the Neocortex Enable Learning the Structure of the World
     - Properties of Sparse Distributed Representations and their Application to Hierarchical Temporal Memory
-- Barrett:
+- Lisa Feldman Barrett:
     - The theory of constructed emotion: an active inference account of interoception and categorization  
+    - Book
 
 ### Books:
  - Society of Mind, Marvin Minsky 
  - The Emotion Machine, Marvin Minsky
- - GEB, and other H-books? I'm not sure if this is needed.  
 
 Future Inclusions:  
     - Wolfram  
-    - More Barrett?
     - CoCoSci analogous groups at other schools?
+    - Better/extended neuroanatomy sources (past Hawkins)
 
 TODO:  
     - Individual summary pages for the more important papers
