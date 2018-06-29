@@ -54,6 +54,10 @@ Outer layer is ordered by author, inner layer is ordered by importance
     - Computational rationality: A converging paradigm for intelligence in brains, minds, and machines. \[[notes](notes/MIT_cocosci/computational_rationality.md)\]  
       Summary paper... questionable.  
 
+- Stefan Depeweg:
+    - Solving Bongard Problems with a Visual Language and Pragmatic Reasoning \[[notes](notes/bongard_german.md)\].
+      A BPL approach to solving bongard problems.
+
 
 - Marvin Minsky:  
     - Society of Mind \[[notes](notes/MIT_Society_of_mind/index.md)\]  
